@@ -55,7 +55,7 @@ def crawler_logic(seed):
 	next_link = seed
 
 	while len(crawled) < urls_to_crawl:
-		print "entering while"
+		#print "entering while"
 
 		if not to_crawl:	#in case the to_crawl is empty before the nubmer of urls to crawl
 			break
