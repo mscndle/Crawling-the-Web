@@ -10,7 +10,10 @@ Crawling the web
    <code>pip install --user beautifulsoup4</code><br/>
    <code>pip install --user requests</code>
 
-2. 
+2. Simple java web crawler<br/>
+   Similar input to the above python script. Takes a lot longer to run though.
 
+   Libraries used - Jsoup
+   <code>http://jsoup.org/</code>
 
 3. 
